@@ -115,6 +115,7 @@
             // 
             // label1
             // 
+            this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Location = new System.Drawing.Point(263, 63);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(135, 180);
